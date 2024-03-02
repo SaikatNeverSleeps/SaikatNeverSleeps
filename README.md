@@ -1,6 +1,6 @@
 # Saikat Halder
 ## @SaikatNeverSleeps
-I am a System Analyst, currently pursuing Data Analyst certification through CareerFoundry. I am passionate about Data Analysis, Machine Learning, Business Analysis, Data Warehouse and SDLC. 
+I'm a System Analyst with a keen interest in data analysis, machine learning, and business analysis. I'm currently focused on honing my skills in data analysis, exploring machine learning techniques, and understanding the intricacies of business analysis. My aim is to leverage this knowledge to contribute meaningfully to projects and drive informed decision-making processes.
 
 ## 🔧 Technologies & Tools
 -Methodologies: SCRUM, SAFe, Kanban
