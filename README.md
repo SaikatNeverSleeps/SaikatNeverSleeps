@@ -7,7 +7,7 @@ I am a System Analyst, currently pursuing Data Analyst certification through Car
 
 -Project Tracking Tools: Azure DevOps, JIRA, Rally
 
--Programming Languages: SQL, Python, XSL, Jacascript
+-Programming Languages: SQL, Python, XSL, Javascript
 
 -Database: MS SQL Server, Oracle, PostgreSQL
 
