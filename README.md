@@ -11,7 +11,7 @@ I'm a System Analyst with a keen interest in data analysis, machine learning, an
 
 -Database: MS SQL Server, Oracle, PostgreSQL
 
--RDBMS: SSMS, TOAD, Snowflake
+-RDBMS: SSMS, TOAD, Snowflake, pgAdmin4
 
 -ETL Tools/BI Tools: Azure Data Factory, Infromatica, Tableau
 
